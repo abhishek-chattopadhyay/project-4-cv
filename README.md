@@ -49,19 +49,19 @@ fracture-classifier/
 ```
 
 ## 🚀 Getting Started
-- 1. Clone the repository
-     ```bash
-     git clone https://github.com/abhishek-chattopadhyay/project-4-cv.git
-     cd project-4-cv
-     ```
-- 2. Create a virtual environment and install dependencies:
-     ```bash
-     python -m venv venv
-     source venv/bin/activate  # On Windows: venv\Scripts\activate
-     pip install -r requirements.txt
-     ```
-- 3. Download the data from the link and put it into the data folder.
-- 4. Run the `main.ipynb`
+1. Clone the repository
+   ```bash
+   git clone https://github.com/abhishek-chattopadhyay/project-4-cv.git
+   cd project-4-cv
+   ```
+2. Create a virtual environment and install dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+3. Download the data from the link and put it into the data folder.
+4. Run the `main.ipynb`
 
 ## 📝 Extra Notes
 - This project was developed as part of the Ironhack Data Science Bootcamp.
