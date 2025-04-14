@@ -1,0 +1,5 @@
+# ignore the data
+./data
+./data/*
+./original_data
+./original_data/*
